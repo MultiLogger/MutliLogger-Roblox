@@ -23,3 +23,23 @@ This is a roblox tool made for roblox script devs can use to logs script injecti
 7: Paste the webhook in the "YOUR_WEBHOOK_HERE" part
 
 8: Execute it and recieve injection logs **RECOMMEND OBFUSCATING THIS**
+
+# Supported / Unsupported Executors
+
+[ Supported ]
+
+`Synapse X`
+
+`Krnl`
+
+`Evon`
+
+`JJSploit`
+
+`Valyse`
+
+`AND MORE`
+
+[ Unsupported ] 
+
+`Electron`
