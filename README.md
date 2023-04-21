@@ -29,15 +29,10 @@ This is a roblox tool made for roblox script devs can use to logs script injecti
 [ Supported ]
 
 `Synapse X`
-
 `Krnl`
-
 `Evon`
-
 `JJSploit`
-
 `Valyse`
-
 `AND MORE`
 
 [ Unsupported ] 
