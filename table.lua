@@ -1,10 +1,7 @@
 -- // Table of tool
 
-getgenv().MutliLogger = {
-    Webhook = {
-        ["URL"] = "YOUR_WEBHOOK_HERE"
-    },
-    Text = {
-        ["CustomText"] = "CUSTOM_TEXT_HERE"
-    }
+_G.Configuration = {
+    WEBHOOK = ( "YOUR_WEBHOOK_HERE" ),
+    TITLE = ( "YOUR_TITLE_HERE" ),
+    DESCRIPTION = ( "YOUR_DESC_HERE" ),
 }
